@@ -17,3 +17,5 @@ Econometric Theory, Computational Economics, Mathematical Economics, Macroeconom
 Education:
 Bachelor of Science in Applied Economics and Master of Science in Economics (Honors) (Ladderized), Minor in Data Science
 
+## Core Projects
+
