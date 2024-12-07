@@ -15,5 +15,6 @@ Econometric Theory, Computational Economics, Mathematical Economics, macroeconom
 
 Education:
 Bachelor of Science in Applied Economics and Master of Science in Economics (Honors) (Ladderized), Minor in Data Science
+
 2021-Present, Carlos L. Tiu School of Economics, De La Salle University, 2401 Taft Ave., Malate, Manila, 1004 Metro Manila
 
