@@ -5,3 +5,5 @@ This portfolio serves as my collection of projects that I have done throughout m
 Email: joshua_seagan@dlsu.edu.ph
 
 Contact No.: +63 915 513 5063
+
+LinkedIn: https://www.linkedin.com/in/joshua-seagan-884190226/
