@@ -7,3 +7,13 @@ Email: joshua_seagan@dlsu.edu.ph
 Contact No.: +63 915 513 5063
 
 LinkedIn: https://www.linkedin.com/in/joshua-seagan-884190226/
+
+## About Me
+
+Research Interests:
+Econometric Theory, Computational Economics, Mathematical Economics, macroeconometrics
+
+Education:
+Bachelor of Science in Applied Economics and Master of Science in Economics (Honors) (Ladderized), Minor in Data Science
+2021-Present, Carlos L. Tiu School of Economics, De La Salle University, 2401 Taft Ave., Malate, Manila, 1004 Metro Manila
+
