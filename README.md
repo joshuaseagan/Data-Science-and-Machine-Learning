@@ -19,7 +19,7 @@ Bachelor of Science in Applied Economics and Master of Science in Economics (Hon
 
 ## Core Projects
 
-### [DATA100 Final Project]([#](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA100%5D%20Final_project.ipynb))
+### [DATA100 Final Project](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA100%5D%20Final_project.ipynb)
 
 In this project, 
 
