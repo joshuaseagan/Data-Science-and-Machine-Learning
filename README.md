@@ -21,18 +21,18 @@ Bachelor of Science in Applied Economics and Master of Science in Economics (Hon
 
 ### [DATA100 Final Project](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA100%5D%20Final_project.ipynb)
 
-In this project, 
+In this project, me and my groupmates performed an analysis of the coffee market around the world using graphical approaches and Ordinary Least Squares Regressions.
 
 ---
 
 ### [DATA101 Final Project](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA101%5D%20Final_project.py) 
 
-In this project,
+In this project, me and my groupmates focused on developing an application showing choropleth maps about sectoral employment and GDP in the Philippines.
 
 ---
 
 ### [DATA102 Final Project](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA102%5D%20final_project.ipynb) 
 
-In this project,
+In this project, me and my groupmates focused on analyzing the nature of the products exported by the Philippines and to understand the patterns of product complexity in its trade with countries where it has Free Trade Agreements (FTAs) with.
 
 ---
