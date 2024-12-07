@@ -32,7 +32,7 @@ In this project, me and my groupmates focused on developing an application showi
 ---
 
 ### [DATA102 Final Project](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/%5BDATA102%5D%20final_project.ipynb) 
-
+  
 In this project, me and my groupmates focused on analyzing the nature of the products exported by the Philippines and to understand the patterns of product complexity in its trade with countries where it has Free Trade Agreements (FTAs) with.
 
 ---
