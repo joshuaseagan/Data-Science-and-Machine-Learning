@@ -36,3 +36,9 @@ In this project, me and my groupmates focused on developing an application showi
 In this project, me and my groupmates focused on analyzing the nature of the products exported by the Philippines and to understand the patterns of product complexity in its trade with countries where it has Free Trade Agreements (FTAs) with.
 
 ---
+
+## Core Competencies
+
+Methodologies: Data Mining and Scraping, Data Preprocessing, Machine Learning, Multivariate Analysis, Econometrics
+
+Languages: Python, Stata, R, Tableau, LaTeX
