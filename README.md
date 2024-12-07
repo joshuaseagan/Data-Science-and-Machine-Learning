@@ -9,6 +9,7 @@ Contact No.: +63 915 513 5063
 LinkedIn: https://www.linkedin.com/in/joshua-seagan-884190226/
 
 ## About Me
+Full Name: Joshua Miguel Viloria Seagan
 
 Research Interests:
 Econometric Theory, Computational Economics, Mathematical Economics, Macroeconometrics
