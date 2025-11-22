@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/joshua-seagan-884190226/
 Full Name: Joshua Miguel Viloria Seagan
 
 Research Interests:
-Econometric Theory, Computational Economics, Mathematical Economics, Macroeconometrics
+Economic Theory, Mathematical Economics, New Economic Geography
 
 Education:
 Bachelor of Science in Applied Economics and Master of Science in Economics (Honors) (Ladderized), Minor in Data Science
