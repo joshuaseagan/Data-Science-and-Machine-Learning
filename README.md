@@ -37,6 +37,12 @@ In this project, me and my groupmates focused on analyzing the nature of the pro
 
 ---
 
+### [ECOCAL1 Python & Calculus Foundations (LFS 2018)](https://github.com/joshuaseagan/Data-Science-and-Machine-Learning/blob/main/ECOCAL1/ECOCAL1_Python_and_Calculus_Foundations_LFS2018.ipynb)
+
+A self-study Google Colab notebook for DLSU's ECOCAL1 (Economics Calculus 1, Weeks 1–8). It teaches beginner Python alongside pre-calculus algebra and a calculus preview, using Philippine Labor Force Survey 2018 data for every example and exercise.
+
+---
+
 ## Core Competencies
 
 Methodologies: Data Mining and Scraping, Data Preprocessing, Machine Learning, Multivariate Analysis, Econometrics
